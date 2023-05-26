@@ -171,7 +171,7 @@ function App() {
                     <div className="absolute bottom-[-10px] left-[-18px] w-8 h-6 bg-white rounded-r-3xl" />
                   </div>
                 </div>
-                <div className="bg-lightGray relative border border-t-2 h-[80px] px-4 py-3">
+                <div className="bg-lightGray relative rounded-b-lg border border-t-2 h-[80px] px-4 py-3">
                   <div className="flex items-center justify-between">
                     <div className="flex flex-col">
                       <span className="text-textGray">You have to pay</span>
